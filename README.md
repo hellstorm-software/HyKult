@@ -27,3 +27,5 @@ HyKult is designed to be a much more laid back and less serious version of the K
     - changed model from Rootling to Caseoh's player skin
     - added crafting recipe to Alchemist Workbench
 - turned Mosshorns into Moldhorns
+
+- *fixed an issue causing Caseoh to not load*
