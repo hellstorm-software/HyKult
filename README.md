@@ -25,3 +25,4 @@ HyKult is designed to be a much more laid back and less serious version of the K
 - added Caseoh NPC Merchant
     - added item to spawn Case
     - added food items to shop
+    - changed model from Rootling to Caseoh's player skin
