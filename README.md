@@ -1,2 +1,17 @@
 # HyKult
-The official Kult Rising mod for Hytale
+[![Discord](https://img.shields.io/discord/670738185571139590?color=5100ff&labelColor=555555&label=&logo=discord&style=for-the-badge)](https://discord.gg/usKwxca "Discord")
+[![Commits](https://img.shields.io/github/commit-activity/m/hellstorm-software/Kult-Rising?color=ff0404&label=commits&style=for-the-badge)](https://github.com/hellstorm-software/kult-rising/commits "Commit History")
+[![Last Commit](https://img.shields.io/github/last-commit/hellstorm-software/Kult-Rising?color=f204ff&label=&style=for-the-badge&display_timestamp=committer)](https://github.com/hellstorm-software/Convergence-Changelog/pulse/monthly "Last activity")
+
+<p style="font-size: smaller;">
+    Info: <a href="https://hellstorm-software.github.io/theGrid/core/kultRising.html" target="_blank">http://sxlarwasteland.com/kult-rising</a><br>
+    this game is a licensed trademark of <a href="https://sxlarwasteland.com">Sxlar Wasteland</a> <br>
+    the <b>LORE</b> of this game is liscenced under <a href="http://sxlaris.wikidot.com/licensing-and-third-party-content"> CC BY-SA</a><br>
+    Sxlaris Wiki: http://sxlaris.wikidot.com/<br>
+</p>
+
+----------------------------------------------------------
+
+HyKult is the official Kult Rising modpack fir Hytale, that brings the Sxlaris Canon of the SCP Foundation into Hytale. 
+
+HyKult is designed to be a much more laid back and less serious version of the Kult Rising experience, aiming less for being perfectly accurate to canon, and more for satisfying/relaxing gameplay loops. 
