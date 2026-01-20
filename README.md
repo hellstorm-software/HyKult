@@ -24,6 +24,7 @@ HyKult is designed to be a much more laid back and less serious version of the K
 - added Walter White NPC Merchant
     - added item to spawn Walter
     - added crystal and potions to shop
+    - created walter white skin
 
 ----------------------------------------------------------
 
