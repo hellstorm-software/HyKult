@@ -20,6 +20,11 @@ HyKult is designed to be a much more laid back and less serious version of the K
 
 ----------------------------------------------------------
 
+2026.1.20
+- added Walter White NPC Merchant
+
+----------------------------------------------------------
+
 2026.1.18
 - added Caseoh NPC Merchant
     - added item to spawn Case
@@ -29,3 +34,4 @@ HyKult is designed to be a much more laid back and less serious version of the K
 - turned Mosshorns into Moldhorns
 
 - *fixed an issue causing Caseoh to not load*
+
