@@ -28,6 +28,7 @@ HyKult is designed to be a much more laid back and less serious version of the K
     - added crafting recipe to alchemy workbench
 - Updated Caseoh NPC
     - changed overtop to hoodie
+    - added hood
 
 ----------------------------------------------------------
 
