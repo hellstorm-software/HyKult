@@ -25,6 +25,7 @@ HyKult is designed to be a much more laid back and less serious version of the K
     - added placeable workbench item
     - added caseoh to NPC section
     - added Walter White to NPC section
+- added the VPO-209
 
 ----------------------------------------------------------
 
