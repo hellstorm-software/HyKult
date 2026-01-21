@@ -32,6 +32,7 @@ HyRise is designed to be a much more laid back and less serious version of the K
     - fixed an issue causing the recipe to only accept certain logs
 - began adding Mjolnir
     - added hammer model
+    - added animations
 
 ----------------------------------------------------------
 
