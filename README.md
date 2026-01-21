@@ -24,6 +24,7 @@ HyKult is designed to be a much more laid back and less serious version of the K
 - began adding SCP-x009-1 Workbench
     - added placeable workbench item
     - added caseoh to NPC section
+    - added Walter White to NPC section
 
 ----------------------------------------------------------
 
