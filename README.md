@@ -28,6 +28,7 @@ HyKult is designed to be a much more laid back and less serious version of the K
     - added VPO-209 to weapon section
 - added the VPO-209
     - added crafting recipe of 50 copper, 50 iron, 200 wood, and 2 repair kits
+    - adjusted fire rate from .5 RPS to 1 RPS
 
 ----------------------------------------------------------
 
