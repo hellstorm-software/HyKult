@@ -34,6 +34,7 @@ HyRise is designed to be a much more laid back and less serious version of the K
     - added hammer model
     - added animations
     - added dagger lunge
+    - added ground slam
 
 ----------------------------------------------------------
 
