@@ -31,6 +31,7 @@ HyRise is designed to be a much more laid back and less serious version of the K
     - adjusted fire rate from .5 RPS to 1 RPS
     - fixed an issue causing the recipe to only accept certain logs
 - began adding Mjolnir
+    - added hammer model
 
 ----------------------------------------------------------
 
