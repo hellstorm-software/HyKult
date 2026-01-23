@@ -22,6 +22,7 @@ HyRise is designed to be a much more laid back and less serious version of the K
 
 2026.1.23
 - updated Crelly NPC model
+    - added horns
 
 ----------------------------------------------------------
 
