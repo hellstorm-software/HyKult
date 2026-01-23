@@ -20,6 +20,11 @@ HyRise is designed to be a much more laid back and less serious version of the K
 
 ----------------------------------------------------------
 
+2026.1.23
+- updated Crelly NPC model
+
+----------------------------------------------------------
+
 2026.1.22
 - began creating Crelly NPC
     - created crelly model
