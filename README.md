@@ -24,6 +24,7 @@ HyRise is designed to be a much more laid back and less serious version of the K
 - added Guide NPC
 - updated scp-x009-1 bench to be easier to craft
 - added ironmouse NPC
+    - added ironmouse spawner
 - changed all recipes to work with the SCP-x009-1 bench instead of the alchemy bench
 
 ----------------------------------------------------------
