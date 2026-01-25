@@ -29,6 +29,7 @@ HyRise is designed to be a much more laid back and less serious version of the K
 - changed all recipes to work with the SCP-x009-1 bench instead of the alchemy bench
 - added mold item
 - added moldy longsword
+- added moldy shurikens
 
 ----------------------------------------------------------
 
