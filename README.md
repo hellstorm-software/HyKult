@@ -32,6 +32,7 @@ HyRise is designed to be a much more laid back and less serious version of the K
 - added moldy longsword
     - added crafting recipe
 - added moldy shurikens
+    - added crafting recipe
 
 ----------------------------------------------------------
 
