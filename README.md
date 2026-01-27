@@ -20,6 +20,10 @@ HyRise is designed to be a much more laid back and less serious version of the K
 
 ----------------------------------------------------------
 
+
+2026.1.25 - 2026.1.26
+- added mouser c96 firearm
+
 ----------------------------------------------------------
 
 2026.1.24
