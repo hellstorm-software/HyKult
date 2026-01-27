@@ -26,6 +26,7 @@ HyRise is designed to be a much more laid back and less serious version of the K
 - added mouseiron armor set
     - added icons to armor pieces
     - added textures to armor pieces
+    - added crafting recipes to x009Bench
 
 ----------------------------------------------------------
 
