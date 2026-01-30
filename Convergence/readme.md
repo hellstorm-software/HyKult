@@ -15,3 +15,5 @@
 HyRise is designed to be a much more laid back and less serious version of the Kult Rising experience, aiming less for being perfectly accurate to canon, and more for satisfying/relaxing gameplay loops. </p>
 
 ----------------------------------------------------------
+
+Convergence is an SMP project that may eventually be turned into a playable map as well.
