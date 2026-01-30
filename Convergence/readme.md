@@ -1,4 +1,4 @@
-# HyRise
+# Convergence SMP
 [![Discord](https://img.shields.io/discord/670738185571139590?color=5100ff&labelColor=555555&label=&logo=discord&style=for-the-badge)](https://discord.gg/usKwxca "Discord")
 [![Commits](https://img.shields.io/github/commit-activity/m/hellstorm-software/HyKult?color=ff0404&label=commits&style=for-the-badge)](https://github.com/hellstorm-software/HyKult/commits "Commit History")
 [![Last Commit](https://img.shields.io/github/last-commit/hellstorm-software/HyKult?color=f204ff&label=&style=for-the-badge&display_timestamp=committer)](https://github.com/hellstorm-software/HyKult/pulse/monthly "Last activity")
