@@ -1,0 +1,25 @@
+{
+  "Input": [
+    {
+      "ItemId": "Furniture_Crude_Chest",
+      "Quantity": 1
+    }
+  ],
+  "PrimaryOutput": {
+    "ItemId": "Resource_BurnableScrap",
+    "Quantity": 5
+  },
+  "Output": [
+    {
+      "ItemId": "Resource_BurnableScrap",
+      "Quantity": 5
+    }
+  ],
+  "BenchRequirement": [
+    {
+      "Type": "Processing",
+      "Id": "Salvagebench"
+    }
+  ],
+  "TimeSeconds": 4
+}
