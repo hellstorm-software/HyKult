@@ -1,18 +1,18 @@
 {
   "Input": [
     {
-      "ItemId": "Furniture_Crude_Chest",
+      "ItemId": "Furniture_Crude_Door",
       "Quantity": 1
     }
   ],
   "PrimaryOutput": {
     "ItemId": "Resource_BurnableScrap",
-    "Quantity": 5
+    "Quantity": 2
   },
   "Output": [
     {
       "ItemId": "Resource_BurnableScrap",
-      "Quantity": 5
+      "Quantity": 2
     }
   ],
   "BenchRequirement": [
