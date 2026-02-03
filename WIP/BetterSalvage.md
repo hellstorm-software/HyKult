@@ -1,0 +1,1 @@
+Better Salvaging overhauls the Salvage Workshop to add every item and block to the recipes. 
